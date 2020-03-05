@@ -1,10 +1,10 @@
-package com.test.word.proxy.test.cilent;
+package com.test.word.proxy.cilent;
 
 
 
-import com.test.word.proxy.test.proxy.TClassLoader;
-import com.test.word.proxy.test.proxy.TInvocationHandler;
-import com.test.word.proxy.test.proxy.TProxy;
+import com.test.word.proxy.proxy.TClassLoader;
+import com.test.word.proxy.proxy.TInvocationHandler;
+import com.test.word.proxy.proxy.TProxy;
 
 import java.lang.reflect.Method;
 

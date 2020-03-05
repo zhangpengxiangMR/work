@@ -1,4 +1,4 @@
-package com.test.word.proxy.test.cilent;
+package com.test.word.proxy.cilent;
 
 public interface IPerson {
 

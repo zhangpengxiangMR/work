@@ -1,4 +1,4 @@
-package com.test.word.proxy.test.proxy;
+package com.test.word.proxy.proxy;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
